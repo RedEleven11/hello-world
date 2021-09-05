@@ -1,2 +1,2 @@
 # hello-world
-Start repository
+Just another repository
